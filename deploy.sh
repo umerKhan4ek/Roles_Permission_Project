@@ -1,4 +1,4 @@
 git add .
 git commit -m 'deploy'
 
-git push origin 
+git push -f https://github.com/umerKhan4ek/Roles_Permission_Project.git  deploysh
